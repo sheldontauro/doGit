@@ -1,6 +1,7 @@
 #include <iostream>
+#define youKid int
 
-int main() {
+youKid main() {
 	printf("Just Checking !!!");
 	string newStuffAdded = "Null";
 }
